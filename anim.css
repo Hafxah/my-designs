@@ -93,7 +93,7 @@ form button {
 
 .ear-l,
 .ear-r {
-  background-color: #3f3554;
+  background-color: #040406;
   height: 2.5em;
   width: 3.51em;
   border: 0.18em solid #2e0d30;
@@ -137,7 +137,7 @@ form button {
 /* Cat Whiskers Styling */
 .whiskers-l,
 .whiskers-r {
-  background-color: #3f3554;
+  background-color: #040406;
   height: 0.01em; /* Thin whiskers */
   width: 4.7em; /* Length of the whiskers */
   position: absolute;
@@ -160,7 +160,7 @@ form button {
 .whiskers-r::before,
 .whiskers-r::after {
   content: "";
-  background-color: #3f3554;
+  background-color: #040406;
   height: 0.01em; /* Thin whiskers */
   width: 4.7em; /* Length of the whiskers */
   position: absolute;
@@ -198,7 +198,7 @@ form button {
 
 .eye-l,
 .eye-r {
-  background-color: #3f3554;
+  background-color: #040406;
   height: 2.10em;
   width: 2.2em;
   border-radius: 2em;
@@ -240,7 +240,7 @@ form button {
 .nose {
   height: 1em;
   width: 1em;
-  background-color: #3f3554;
+  background-color: #040406;
   position: absolute;
   top: 4.37em;
   margin: auto;
@@ -253,7 +253,7 @@ form button {
 .nose:before {
   content: "";
   position: absolute;
-  background-color: #3f3554;
+  background-color: #040406;
   height: 0.6em;
   width: 0.1em;
   transform: rotate(-45deg);
@@ -269,7 +269,7 @@ form button {
  top: 5.31em; 
   left: 3.12em;
   border-radius: 50%;
-  box-shadow: 0 0.18em #3f3554;
+  box-shadow: 0 0.18em #040406;
 }
 
 .mouth:before {
@@ -279,7 +279,7 @@ form button {
   height: 0.75em;
   width: 0.93em;
   border-radius: 50%;
-  box-shadow: 0 0.18em #3f3554;
+  box-shadow: 0 0.18em #040406;
 }
 .mouth:after {
   content: "";
@@ -288,13 +288,13 @@ form button {
   height: 1.4em;
   width: 1.3em;
   border-radius: 30%;
-  box-shadow: 0 0.18em #3f3554;
+  box-shadow: 0 0.18em #040406;
 }
 
 /* Hands and Paws */
 .hand-l,
 .hand-r {
-  background-color: #3f3554;
+  background-color: #040406;
   height: 2.81em;
   width: 2.5em;
   border: 0.18em solid #2e0d30;
@@ -314,7 +314,7 @@ form button {
 
 .paw-l,
 .paw-r {
-  background-color: #3f3554;
+  background-color: #040406;
   height: 3.12em;
   width: 3.12em;
   border: 0.18em solid #2e0d30;
@@ -356,19 +356,6 @@ form button {
   box-shadow: 0.87em 0.37em #ffffff, -0.87em 0.37em #ffffff;
 }
 
-/* Tail */
-.tail {
-  background-color: #3f3554;
-  height: 10.5em;
-  width: 7.1em;
-  border: 0.18em solid #2e0d30;
-  position: absolute;
-  top: 20em;
-  right: 0.5em;
-  left: 22.5em;
-  border-radius: 50%;
-
-}
 .shwPwd {
   align-content: inline;
 }
